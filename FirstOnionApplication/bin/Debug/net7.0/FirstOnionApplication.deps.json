@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FirstOnionApplication/1.0.0": {
+        "dependencies": {
+          "FirstOnionDomain": "1.0.0"
+        },
+        "runtime": {
+          "FirstOnionApplication.dll": {}
+        }
+      },
+      "FirstOnionDomain/1.0.0": {
+        "runtime": {
+          "FirstOnionDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstOnionApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstOnionDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

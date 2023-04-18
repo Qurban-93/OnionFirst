@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\bin\Debug\net7.0\FirstOnionApplication.deps.json
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\bin\Debug\net7.0\FirstOnionApplication.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\bin\Debug\net7.0\FirstOnionApplication.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\bin\Debug\net7.0\FirstOnionDomain.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\bin\Debug\net7.0\FirstOnionDomain.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.csproj.CopyComplete
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\refint\FirstOnionApplication.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\FirstOnionApplication.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\FirstOnionApplication\obj\Debug\net7.0\ref\FirstOnionApplication.dll

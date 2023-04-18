@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\bin\Debug\net7.0\FirstOnionInfrastructure.deps.json
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\bin\Debug\net7.0\FirstOnionInfrastructure.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\bin\Debug\net7.0\FirstOnionInfrastructure.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\refint\FirstOnionInfrastructure.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\ref\FirstOnionInfrastructure.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\bin\Debug\net7.0\FirstOnionApplication.dll
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\bin\Debug\net7.0\FirstOnionApplication.pdb
+C:\Users\Hp\Desktop\HomeTestMyself\FirstOnion\Infrastructure\obj\Debug\net7.0\FirstOnionInfrastructure.csproj.CopyComplete
